@@ -1,3 +1,5 @@
+package VisualFolder;
+
 import javax.swing.JFrame;
 
 
